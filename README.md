@@ -13,3 +13,5 @@
 
 4. Performance model yang digunakan adalah BERT. Pada data train memiliki nilai akurasi sebesar 0.98, nilai F1 sebesar 0.98, nilai precision sebesar 0.99, dan nilai recall sebesar 0.98.
    Pada data test, memiliki nilai akurasi sebesar 0.96, nilai F1 sebesar 0.96, nilai precision sebesar 0.97, dan nilai recall sebesar 0.96. Dari hasil tersebut dapat disimpulkan bahwa model yang digunakan memiliki performa yang baik.
+
+5. Proses deployment menggunakan Flask dan dideploy ke VPS. Untuk mengakses chatbot dapat mengunjungi link berikut : https://wildan.wahyuachmad.com/
